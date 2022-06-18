@@ -10,4 +10,4 @@
 
 5) The converting folder includes the following files: pdtb format files (wsj_0618), batch.bat, step1.pl, step2.pl. After running above, other files are dynamically generated after running.
 
-6) Note the current programming scripts are written by Perl. We will upload the Python version soon. 
+6) Note the current programming scripts are written by Perl. This is a dummy script for showing how to convert the PDTB example into dependencies. We will upload the Python version soon. 
